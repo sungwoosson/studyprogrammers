@@ -8,6 +8,8 @@
 
 입출력 예
 s	result
+
+|------|---|---|
 |"one4seveneight"	 |1478|
 |"23four5six7"	     |234567|
 |"2three45sixseven" |	234567|
